@@ -1,6 +1,6 @@
 # Write your solution here
 currentTime = Time.now 
-intTime = current_time.to_i
+intTime = currentTime.to_i
 if intTime.odd?
   puts "Odd!"
 else
